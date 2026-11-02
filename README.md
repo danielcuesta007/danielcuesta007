@@ -1,8 +1,13 @@
 <h1>Daniel Cuesta</h1>
 
 <p>
-  Author of <b>Wednesdays Of Wisdom</b> ✨, a weekly newsletter focused on timeless principles for daily action. Co-founder of <b>Addisuna Coffee Co.</b> ☕️, an Ethiopian
-  specialty coffee company sponsoring children's education in Ethiopia. University of Notre Dame alumnus (Go Irish ☘️). Currently operating and building out of New York, New York 🗽. Growing the good in business with IBM Consulting. 
+  Senior at the University of Notre Dame (Go Irish), studying Finance and Strategic Management. Author of <b>Wednesdays Of Wisdom</b>, a weekly newsletter focused on timeless principles for daily action: 120+ letters on philosophy and faith. Co-founder of <b>Addisuna Coffee Co.</b>, a profitable Ethiopian specialty coffee company sponsoring children's education in Ethiopia. Spent summer 2026 growing the good in business with IBM Consulting.
+</p>
+
+<p>
+  <b>Now:</b> building <b>Obscure</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
+  shipping <b>Cadence</b>, open-source on-device dictation for Mac ·
+  keeping <b>18 students</b> in school through Addisuna.
 </p>
 
 <p>
@@ -14,6 +19,31 @@
   <a href="https://www.youtube.com/@danielcuesta007">YouTube</a> ·
   <a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a>
 </p>
+
+## Obscure, with the Defense Innovation Unit
+
+<table>
+<tr>
+<td width="96" align="center" valign="middle"><a href="https://obscure-7n5.pages.dev/#demo"><img src="https://obscure-7n5.pages.dev/brand/app-icon.svg" width="80" alt="Obscure app icon"></a></td>
+<td valign="top">
+
+### Sensitive message in. Ordinary conversation out.
+
+Encryption is a flag too: a block of scrambled text is the most suspicious message on the
+network. Obscure rewrites a sensitive message into ordinary conversation that any chat app
+can carry, and the intended recipient recovers the original. It hides behind a working chess site.
+
+Team MagCT **won Notre Dame's SprintHacks** with Obscure in October 2026 and was selected for
+Notre Dame's **Innovation Sprint Lab**, where we are developing it with DIU toward Demo Day in
+December 2026. The code is in a private repository until development ends or DIU clears it for release.
+
+**[Watch the demo →](https://obscure-7n5.pages.dev/#demo)** · **[How it works →](https://obscure-7n5.pages.dev/#how)** · `Team MagCT` · `DIU` · `AI` · `Security`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## LATEST FROM DC LABS
 
