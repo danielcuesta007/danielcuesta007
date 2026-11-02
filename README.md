@@ -54,10 +54,10 @@ its installation requirements, privacy boundaries and current development stage.
 
 <table>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/cadence-app.png" width="80" alt="Cadence app icon"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/cadence-app.png" width="80" alt="Cadence app icon"></a></td>
 <td valign="top">
 
-### [Cadence](https://github.com/danieljcuesta007/cadence): dictation for Mac
+### [Cadence](https://github.com/danielcuesta007/cadence): dictation for Mac
 
 Hold a key, speak, let go, and the text lands wherever you're typing. Transcription runs
 entirely on your Mac and works offline, in English and Spanish.
@@ -67,10 +67,10 @@ entirely on your Mac and works offline, in English and Spanish.
 </td>
 </tr>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://skeptic.pages.dev"><img src="https://raw.githubusercontent.com/danieljcuesta007/skeptic/main/docs/brand/skeptic-icon.svg" width="80" alt="Skeptic icon"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://skeptic.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/skeptic/main/docs/brand/skeptic-icon.svg" width="80" alt="Skeptic icon"></a></td>
 <td valign="top">
 
-### [Skeptic](https://github.com/danieljcuesta007/skeptic): your work, your memory, any AI
+### [Skeptic](https://github.com/danielcuesta007/skeptic): your work, your memory, any AI
 
 **Pre-alpha.** A local-first tool for preparing handoffs between AI coding assistants,
 with portable Markdown knowledge. Real-project/provider acceptance is still in progress.
@@ -80,10 +80,10 @@ with portable Markdown knowledge. Real-project/provider acceptance is still in p
 </td>
 </tr>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://github.com/danieljcuesta007/sophia"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/sophia-app.png" width="80" alt="Sophia: Lady Wisdom and an open book"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://github.com/danielcuesta007/sophia"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/sophia-app.png" width="80" alt="Sophia: Lady Wisdom and an open book"></a></td>
 <td valign="top">
 
-### [Sophia](https://github.com/danieljcuesta007/sophia): a writing companion for Chrome, and soon your Mac
+### [Sophia](https://github.com/danielcuesta007/sophia): a writing companion for Chrome, and soon your Mac
 
 **Preview.** The Chrome extension checks spelling, grammar, word choices and word density
 locally, with no account or API key. Install it unpacked from source; the Mac app is
@@ -97,10 +97,10 @@ still in development and has no packaged download.
 
 ---
 
-<a href="https://github.com/danieljcuesta007">
+<a href="https://github.com/danielcuesta007">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/output/contributions-dark.svg">
-    <img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/output/contributions-light.svg" width="100%" alt="GitHub contributions in the last year">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/output/contributions-dark.svg">
+    <img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/output/contributions-light.svg" width="100%" alt="GitHub contributions in the last year">
   </picture>
 </a>
 
@@ -116,7 +116,7 @@ still in development and has no packaged download.
 
 <table>
 <tr>
-<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/letters.svg" width="100" alt="Letters icon"></td>
+<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/letters.svg" width="100" alt="Letters icon"></td>
 <td valign="top">
 
 **A weekly letter on faith, growth and living with intention.** Every letter illustrated,
@@ -134,7 +134,7 @@ illustrated universe of characters behind the art.
 
 **[Subscribe on Substack →](https://danielcuesta007.substack.com)** · **[Read the archive →](https://danielcuesta007.com)**
 
-<a href="https://danielcuesta007.com"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/assets/wow-site.jpg" width="100%" alt="The Wednesdays Of Wisdom home page"></a>
+<a href="https://danielcuesta007.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/assets/wow-site.jpg" width="100%" alt="The Wednesdays Of Wisdom home page"></a>
 
 </td>
 </tr>
@@ -146,7 +146,7 @@ illustrated universe of characters behind the art.
 
 <table>
 <tr>
-<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/addisuna.svg" width="100" alt="Addisuna icon"></td>
+<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/addisuna.svg" width="100" alt="Addisuna icon"></td>
 <td valign="top">
 
 **Ethiopian specialty coffee that pays for school.** Co-founded with
@@ -165,7 +165,7 @@ including a mobile speed pass that took its Lighthouse score from 46 to 70
 
 **[Shop the roasts →](https://addisuna.com)**
 
-<a href="https://addisuna.com"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/assets/addisuna-site.jpg" width="100%" alt="The Addisuna Coffee Co. home page"></a>
+<a href="https://addisuna.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/assets/addisuna-site.jpg" width="100%" alt="The Addisuna Coffee Co. home page"></a>
 
 </td>
 </tr>
@@ -177,7 +177,7 @@ including a mobile speed pass that took its Lighthouse score from 46 to 70
 
 <table>
 <tr>
-<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/education.svg" width="100" alt="Education icon"></td>
+<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/education.svg" width="100" alt="Education icon"></td>
 <td valign="top">
 
 ### Addisuna Youth Foundation
@@ -198,7 +198,7 @@ products, plus mobility support for three children who need it.
 
 <table>
 <tr>
-<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/command-center.svg" width="100" alt="Command Center icon"></td>
+<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/command-center.svg" width="100" alt="Command Center icon"></td>
 <td valign="top">
 
 ### Addisuna Command Center
@@ -220,7 +220,7 @@ branches and reviewed pull requests.
 
 <table>
 <tr>
-<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/consulting.svg" width="100" alt="Consulting icon"></td>
+<td width="120" valign="top"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/consulting.svg" width="100" alt="Consulting icon"></td>
 <td valign="top">
 
 ### IBM Consulting
@@ -229,7 +229,7 @@ Client work, a team capstone called AskRX, and a portfolio of what I learned alo
 
 `Consulting` · `Client delivery`
 
-**[See the portfolio →](https://danieljcuesta007.github.io/ibmportfolio/)**
+**[See the portfolio →](https://danielcuesta007.github.io/ibmportfolio/)**
 
 </td>
 </tr>
@@ -239,8 +239,8 @@ Client work, a team capstone called AskRX, and a portfolio of what I learned alo
 
 ### Try a tool or contribute
 
-- **Dictation:** [download Cadence](https://github.com/danieljcuesta007/cadence/releases/latest).
-- **Early testing:** read the current limitations in [Skeptic](https://github.com/danieljcuesta007/skeptic#readme) or [Sophia](https://github.com/danieljcuesta007/sophia#readme) before trying a preview.
+- **Dictation:** [download Cadence](https://github.com/danielcuesta007/cadence/releases/latest).
+- **Early testing:** read the current limitations in [Skeptic](https://github.com/danielcuesta007/skeptic#readme) or [Sophia](https://github.com/danielcuesta007/sophia#readme) before trying a preview.
 - **Feedback:** open an issue in the relevant repository with your OS/app version, steps to reproduce, and expected versus actual behavior. Remove private text and credentials from examples.
 - **Contributions:** documentation fixes and reproducible bug reports are useful starting points; discuss substantial changes in an issue before implementing them.
 

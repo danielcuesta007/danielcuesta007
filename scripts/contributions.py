@@ -273,7 +273,7 @@ def render(cal, theme, pct=None):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("login", nargs="?",
-                    default=os.environ.get("GITHUB_REPOSITORY_OWNER", "danieljcuesta007"))
+                    default=os.environ.get("GITHUB_REPOSITORY_OWNER", "danielcuesta007"))
     ap.add_argument("--out", default="dist")
     args = ap.parse_args()
 
