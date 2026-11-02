@@ -54,7 +54,7 @@ its installation requirements, privacy boundaries and current development stage.
 
 <table>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danieljcuesta007/cadence/main/site/art/mark.svg" width="80" alt="Cadence mark"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/cadence-app.png" width="80" alt="Cadence app icon"></a></td>
 <td valign="top">
 
 ### [Cadence](https://github.com/danieljcuesta007/cadence): dictation for Mac
@@ -80,7 +80,7 @@ with portable Markdown knowledge. Real-project/provider acceptance is still in p
 </td>
 </tr>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://github.com/danieljcuesta007/sophia"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/sophia-lady-wisdom-olive.png" width="80" alt="Sophia: Lady Wisdom and an open book"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://github.com/danieljcuesta007/sophia"><img src="https://raw.githubusercontent.com/danieljcuesta007/danieljcuesta007/main/icons/sophia-app.png" width="80" alt="Sophia: Lady Wisdom and an open book"></a></td>
 <td valign="top">
 
 ### [Sophia](https://github.com/danieljcuesta007/sophia): a writing companion for Chrome, and soon your Mac
