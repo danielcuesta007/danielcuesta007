@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <b>Now:</b> building <b>Obscure</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
+  <b>Now:</b> building <b>uChess</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
   shipping <b>Cadence</b>, open-source on-device dictation for Mac ·
   keeping <b>18 students</b> in school through Addisuna.
 </p>
@@ -20,24 +20,25 @@
   <a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a>
 </p>
 
-## Obscure, with the Defense Innovation Unit
+## uChess, with the Defense Innovation Unit
 
 <table>
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://obscure-7n5.pages.dev/#demo"><img src="https://obscure-7n5.pages.dev/brand/app-icon.svg" width="80" alt="Obscure app icon"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="80" alt="uChess app icon"></a></td>
 <td valign="top">
 
-### Sensitive message in. Ordinary conversation out.
+### The Royal Game. For All.
 
-Encryption is a flag too: a block of scrambled text is the most suspicious message on the
-network. Obscure rewrites a sensitive message into ordinary conversation that any chat app
-can carry, and the intended recipient recovers the original. It hides behind a working chess site.
+uChess is a free place to play chess on the web and on Android: the computer at eight levels,
+real opponents, puzzles, an openings library and a rating. No paywall, and no account needed to play.
 
-Team MagCT **won Notre Dame's SprintHacks** with Obscure in October 2026 and was selected for
-Notre Dame's **Innovation Sprint Lab**, where we are developing it with DIU toward Demo Day in
-December 2026. The code is in a private repository until development ends or DIU clears it for release.
+Team MagCT **won Notre Dame's SprintHacks** in October 2026 and was selected for Notre Dame's
+**Innovation Sprint Lab**, where we are developing it with DIU toward Demo Day in December 2026.
+The code is in a private repository until development ends or DIU clears it for release.
 
-**[Watch the demo →](https://obscure-7n5.pages.dev/#demo)** · **[How it works →](https://obscure-7n5.pages.dev/#how)** · `Team MagCT` · `DIU` · `AI` · `Security`
+**To find the explainer site, enter `1234` into any uChess chat.**
+
+**[Play uChess →](https://uchess.pages.dev)** · `Team MagCT` · `DIU` · `AI` · `Security`
 
 </td>
 </tr>
