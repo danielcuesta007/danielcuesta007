@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <b>Now:</b> building <b>uChess</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
+  <b>Now:</b> building <b>uChess (Obscure)</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
   shipping <b>Cadence</b>, open-source on-device dictation for Mac ·
   keeping <b>18 students</b> in school through Addisuna.
 </p>
@@ -20,7 +20,7 @@
   <a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a>
 </p>
 
-## uChess, with the Defense Innovation Unit
+## uChess (Obscure with the DIU)
 
 <table>
 <tr>
@@ -32,13 +32,17 @@
 uChess is a free place to play chess on the web and on Android: the computer at eight levels,
 real opponents, puzzles, an openings library and a rating. No paywall, and no account needed to play.
 
+Behind the board is **Obscure: sensitive messages hidden in plain text.** Our Obscure AI encoding
+rewrites a sensitive message as ordinary conversation, and the real message is encrypted on the
+sender's device (AES-256-GCM) before it leaves, so our server never sees the message itself.
+
 Team MagCT **won Notre Dame's SprintHacks** in October 2026 and was selected for Notre Dame's
 **Innovation Sprint Lab**, where we are developing it with DIU toward Demo Day in December 2026.
 The code is in a private repository until development ends or DIU clears it for release.
 
 **To find the explainer site, enter `1234` into any uChess chat.**
 
-**[Play uChess →](https://uchess.pages.dev)** · `Team MagCT` · `DIU` · `AI` · `Security`
+**[Play uChess →](https://uchess.pages.dev)** · `Team MagCT` · `DIU` · `AI` · `Encryption` · `Security`
 
 </td>
 </tr>
