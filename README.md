@@ -12,7 +12,7 @@
 
 <table cellpadding="4">
 <tr>
-  <td align="center" width="44"><a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/magct-mark.svg" width="22" height="22" alt="MagCT"></a></td>
+  <td align="center" width="44"><a href="https://github.com/MagCT"><img src="https://github.com/MagCT.png?s=64" width="22" height="22" alt="MagCT"></a></td>
   <td><a href="https://github.com/MagCT"><b>MagCT</b></a></td>
   <td align="center" width="44"><a href="https://github.com/MagCT/uchess"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/github.svg" width="22" height="22" alt="GitHub"></a></td>
   <td><a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a></td>
