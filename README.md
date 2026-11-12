@@ -25,6 +25,7 @@
   <td valign="middle" align="left"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/cadence-app.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/danielcuesta007/cadence"><b>Cadence</b></a></td>
   <td valign="middle" align="left"><a href="https://sophia-writing.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/sophia-app.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/danielcuesta007/sophia"><b>Sophia</b></a></td>
   <td valign="middle" align="left">&nbsp;</td>
+  <td valign="middle" align="left">&nbsp;</td>
 </tr>
 <tr>
   <td valign="middle" align="left"><a href="https://danielcuesta007.substack.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/substack-official.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://danielcuesta007.substack.com"><b>Substack</b></a></td>
