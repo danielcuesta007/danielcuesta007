@@ -5,30 +5,42 @@
 </p>
 
 <p>
-  <b>Now:</b> building <b>uChess (Obscure)</b> with the Defense Innovation Unit in Notre Dame's Innovation Sprint Lab, after our team won SprintHacks (October 2026) ·
+  <b>Now:</b> building <b>uChess</b> with <b>MagCT</b> in Notre Dame's Innovation Sprint Lab (SprintHacks win, October 2026) ·
   shipping <b>Cadence</b>, open-source on-device dictation for Mac ·
   keeping <b>18 students</b> in school through Addisuna.
 </p>
 
+<table cellpadding="4">
+<tr>
+  <td align="center" width="44"><a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/magct.png" width="22" height="22" alt="MagCT"></a></td>
+  <td><a href="https://github.com/MagCT"><b>MagCT</b></a></td>
+  <td align="center" width="44"><a href="https://github.com/MagCT/uchess"><img src="https://uchess.pages.dev/icons/icon-192.png" width="22" height="22" alt="uChess"></a></td>
+  <td><a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a></td>
+  <td align="center" width="44"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="22" height="22" alt=""></a></td>
+  <td><a href="https://uchess.pages.dev"><b>Play uChess</b></a></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://danielcuesta007.substack.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/letters.svg" width="22" alt=""></a></td>
+  <td><a href="https://danielcuesta007.substack.com"><b>Substack</b></a></td>
+  <td align="center"><a href="https://danielcuesta007.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/letters.svg" width="22" alt=""></a></td>
+  <td><a href="https://danielcuesta007.com"><b>Wednesdays Of Wisdom</b></a></td>
+  <td align="center"><a href="https://addisuna.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/addisuna.svg" width="22" alt=""></a></td>
+  <td><a href="https://addisuna.com"><b>Addisuna Coffee</b></a></td>
+</tr>
+</table>
+
 <p>
-  <a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/MagCT/.github/main/assets/magct-mark.svg" width="28" height="28" alt="" valign="middle"></a>
-  <a href="https://github.com/MagCT"><b>MagCT</b></a> ·
-  <a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a> ·
-  <a href="https://uchess.pages.dev"><b>Play uChess</b></a> ·
-  <a href="https://danielcuesta007.substack.com"><b>Subscribe on Substack</b></a> ·
-  <a href="https://danielcuesta007.com">Wednesdays Of Wisdom</a> ·
-  <a href="https://addisuna.com">Buy Ethiopian Specialty Coffee</a> ·
   <a href="https://www.linkedin.com/in/danielcuesta007/">LinkedIn</a> ·
   <a href="https://www.instagram.com/danielcuesta007/">Instagram</a> ·
   <a href="https://www.youtube.com/@danielcuesta007">YouTube</a> ·
   <a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a>
 </p>
 
-## uChess (Obscure with the DIU)
+## MagCT · uChess
 
-<table>
+<table cellpadding="14">
 <tr>
-<td width="96" align="center" valign="middle"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="80" alt="uChess app icon"></a></td>
+<td width="96" align="center" valign="top"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="80" alt="uChess app icon"></a><br><br><a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/magct.png" width="48" alt="MagCT"></a></td>
 <td valign="top">
 
 ### The Royal Game. For All.
@@ -36,21 +48,29 @@
 uChess is a free place to play chess on the web and on Android: the computer at eight levels,
 real opponents, puzzles, an openings library and a rating. No paywall, and no account needed to play.
 
-Behind the board is **Obscure: sensitive messages hidden in plain text.** Our Obscure AI encoding
-rewrites a sensitive message as ordinary conversation, and the real message is encrypted on the
+<p></p>
+
+Behind the board is **Obscure** — sensitive messages hidden in plain text. Our encoding
+rewrites a sensitive message as ordinary conversation; the real message is encrypted on the
 sender's device (AES-256-GCM) before it leaves, so our server never sees the message itself.
 
-Team MagCT **won Notre Dame's SprintHacks** in October 2026 and is in the **Innovation Sprint Lab** with DIU toward Demo Day (December 2026).
+<p></p>
 
-| | |
-|---|---|
-| **Organization** | [github.com/MagCT](https://github.com/MagCT) |
-| **Code (private)** | [MagCT/uchess](https://github.com/MagCT/uchess) — collaborator access |
-| **Live** | [uchess.pages.dev](https://uchess.pages.dev) |
+**MagCT** won Notre Dame's **SprintHacks** (October 2026) and ships from the **Innovation Sprint Lab** toward Demo Day (December 2026).
 
-**To find the explainer site, enter `1234` into any uChess chat.**
+<p></p>
 
-**[Play uChess →](https://uchess.pages.dev)** · **[MagCT org →](https://github.com/MagCT)** · **[Repo →](https://github.com/MagCT/uchess)**
+- **Organization:** [github.com/MagCT](https://github.com/MagCT)  
+- **Code (private):** [MagCT/uchess](https://github.com/MagCT/uchess) — collaborator access  
+- **Live:** [uchess.pages.dev](https://uchess.pages.dev)
+
+<p></p>
+
+To find the explainer site, enter <code>1234</code> into any uChess chat.
+
+<p></p>
+
+**[Play uChess →](https://uchess.pages.dev)** &nbsp;·&nbsp; **[MagCT →](https://github.com/MagCT)** &nbsp;·&nbsp; **[Repo →](https://github.com/MagCT/uchess)**
 
 </td>
 </tr>
