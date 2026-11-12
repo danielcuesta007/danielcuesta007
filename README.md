@@ -10,35 +10,26 @@
   keeping <b>18 students</b> in school through Addisuna.
 </p>
 
-<table cellpadding="4">
-<tr>
-  <td align="center" width="44"><a href="https://github.com/MagCT"><img src="https://github.com/MagCT.png?s=64" width="22" height="22" alt="MagCT"></a></td>
-  <td><a href="https://github.com/MagCT"><b>MagCT</b></a></td>
-  <td align="center" width="44"><a href="https://github.com/MagCT/uchess"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/github.svg" width="22" height="22" alt="GitHub"></a></td>
-  <td><a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a></td>
-  <td align="center" width="44"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="22" height="22" alt="uChess"></a></td>
-  <td><a href="https://uchess.pages.dev"><b>Play uChess</b></a></td>
-</tr>
-<tr>
-  <td align="center"><a href="https://danielcuesta007.substack.com"><img src="https://www.google.com/s2/favicons?domain=danielcuesta007.substack.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://danielcuesta007.substack.com"><b>Substack</b></a></td>
-  <td align="center"><a href="https://danielcuesta007.com"><img src="https://www.google.com/s2/favicons?domain=danielcuesta007.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://danielcuesta007.com"><b>Wednesdays Of Wisdom</b></a></td>
-  <td align="center"><a href="https://addisuna.com"><img src="https://www.google.com/s2/favicons?domain=addisuna.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://addisuna.com"><b>Addisuna Coffee</b></a></td>
-</tr>
-</table>
+### Teams & links
 
-<table cellpadding="4">
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-  <td align="center" width="44"><a href="https://www.linkedin.com/in/danielcuesta007/"><img src="https://www.google.com/s2/favicons?domain=linkedin.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://www.linkedin.com/in/danielcuesta007/">LinkedIn</a></td>
-  <td align="center" width="44"><a href="https://www.instagram.com/danielcuesta007/"><img src="https://www.google.com/s2/favicons?domain=instagram.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://www.instagram.com/danielcuesta007/">Instagram</a></td>
-  <td align="center" width="44"><a href="https://www.youtube.com/@danielcuesta007"><img src="https://www.google.com/s2/favicons?domain=youtube.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="https://www.youtube.com/@danielcuesta007">YouTube</a></td>
-  <td align="center" width="44"><a href="mailto:wednesdaysofwisdom@danielcuesta007.com"><img src="https://www.google.com/s2/favicons?domain=danielcuesta007.com&amp;sz=32" width="22" height="22" alt=""></a></td>
-  <td><a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a></td>
+  <td width="25%" valign="middle"><a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/magct-link.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/MagCT"><b>MagCT</b></a></td>
+  <td width="25%" valign="middle"><a href="https://github.com/MagCT/uchess"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/github.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a></td>
+  <td width="25%" valign="middle"><a href="https://uchess.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/uchess-play.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://uchess.pages.dev"><b>Play uChess</b></a></td>
+  <td width="25%" valign="middle"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/cadence-app.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/danielcuesta007/cadence"><b>Cadence</b></a></td>
+</tr>
+<tr>
+  <td valign="middle"><a href="https://danielcuesta007.substack.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/substack.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://danielcuesta007.substack.com"><b>Substack</b></a></td>
+  <td valign="middle"><a href="https://danielcuesta007.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/letters.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://danielcuesta007.com"><b>Wednesdays Of Wisdom</b></a></td>
+  <td valign="middle"><a href="https://addisuna.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/addisuna.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://addisuna.com"><b>Addisuna Coffee</b></a></td>
+  <td valign="middle"><a href="https://github.com/danielcuesta007/skeptic"><img src="https://raw.githubusercontent.com/danielcuesta007/skeptic/main/docs/brand/skeptic-icon.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://skeptic.pages.dev"><b>Skeptic</b></a></td>
+</tr>
+<tr>
+  <td valign="middle"><a href="https://www.linkedin.com/in/danielcuesta007/"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/linkedin.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://www.linkedin.com/in/danielcuesta007/">LinkedIn</a></td>
+  <td valign="middle"><a href="https://www.instagram.com/danielcuesta007/"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/instagram.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://www.instagram.com/danielcuesta007/">Instagram</a></td>
+  <td valign="middle"><a href="https://www.youtube.com/@danielcuesta007"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/youtube.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://www.youtube.com/@danielcuesta007">YouTube</a></td>
+  <td valign="middle"><a href="mailto:wednesdaysofwisdom@danielcuesta007.com"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/letters.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="mailto:wednesdaysofwisdom@danielcuesta007.com">Email</a></td>
 </tr>
 </table>
 
