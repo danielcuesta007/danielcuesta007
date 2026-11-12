@@ -11,6 +11,10 @@
 </p>
 
 <p>
+  <a href="https://github.com/MagCT"><img src="https://raw.githubusercontent.com/MagCT/.github/main/assets/magct-mark.svg" width="28" height="28" alt="" valign="middle"></a>
+  <a href="https://github.com/MagCT"><b>MagCT</b></a> ·
+  <a href="https://github.com/MagCT/uchess"><b>uChess repo</b></a> ·
+  <a href="https://uchess.pages.dev"><b>Play uChess</b></a> ·
   <a href="https://danielcuesta007.substack.com"><b>Subscribe on Substack</b></a> ·
   <a href="https://danielcuesta007.com">Wednesdays Of Wisdom</a> ·
   <a href="https://addisuna.com">Buy Ethiopian Specialty Coffee</a> ·
@@ -36,13 +40,17 @@ Behind the board is **Obscure: sensitive messages hidden in plain text.** Our Ob
 rewrites a sensitive message as ordinary conversation, and the real message is encrypted on the
 sender's device (AES-256-GCM) before it leaves, so our server never sees the message itself.
 
-Team MagCT **won Notre Dame's SprintHacks** in October 2026 and was selected for Notre Dame's
-**Innovation Sprint Lab**, where we are developing it with DIU toward Demo Day in December 2026.
-The code is in a private repository until development ends or DIU clears it for release.
+Team MagCT **won Notre Dame's SprintHacks** in October 2026 and is in the **Innovation Sprint Lab** with DIU toward Demo Day (December 2026).
+
+| | |
+|---|---|
+| **Organization** | [github.com/MagCT](https://github.com/MagCT) |
+| **Code (private)** | [MagCT/uchess](https://github.com/MagCT/uchess) — collaborator access |
+| **Live** | [uchess.pages.dev](https://uchess.pages.dev) |
 
 **To find the explainer site, enter `1234` into any uChess chat.**
 
-**[Play uChess →](https://uchess.pages.dev)** · `Team MagCT` · `DIU` · `AI` · `Encryption` · `Security`
+**[Play uChess →](https://uchess.pages.dev)** · **[MagCT org →](https://github.com/MagCT)** · **[Repo →](https://github.com/MagCT/uchess)**
 
 </td>
 </tr>
