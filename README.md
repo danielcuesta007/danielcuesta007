@@ -46,7 +46,7 @@
 ## MagCT
 
 Our team won Notre Dame's **SprintHacks** (October 2026) and builds in the
-**Innovation Sprint Lab** toward Demo Day (December 2026).
+**University of Notre Dame Innovation Sprint Lab**.
 
 <table>
 <tr>
