@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <b>Now:</b> building <b>uChess</b> with <b>MagCT</b> in Notre Dame's Innovation Sprint Lab (SprintHacks win, October 2026) ·
+  <b>Now:</b> building <b>Obscure</b> with <b>MagCT</b> to help people speak freely ·
   shipping <b>Cadence</b>, open-source on-device dictation for Mac ·
   keeping <b>18 students</b> in school through Addisuna.
 </p>
@@ -43,41 +43,36 @@
 </tr>
 </table>
 
-## MagCT · uChess
+## MagCT
 
-<table cellpadding="14">
+Our team won Notre Dame's **SprintHacks** (October 2026) and builds in the
+**Innovation Sprint Lab** toward Demo Day (December 2026).
+
+<table>
 <tr>
-<td width="96" align="center" valign="top"><a href="https://uchess.pages.dev"><img src="https://uchess.pages.dev/icons/icon-192.png" width="80" alt="uChess app icon"></a></td>
+<td width="96" align="center" valign="middle"><a href="https://obscurelabs.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/obscure.svg" width="80" alt="Obscure icon"></a></td>
 <td valign="top">
 
-### The Royal Game. For All.
+### [Obscure](https://obscurelabs.pages.dev): hidden in plain sight
 
-uChess is a free place to play chess on the web and on Android: the computer at eight levels,
-real opponents, puzzles, an openings library and a rating. No paywall, and no account needed to play.
+**Freedom of speech, without fear.** We build for journalistic integrity, humanitarian
+aid and the freedom to say what needs to be said, within the law. Obscure disguises
+sensitive messages as ordinary conversation. **Early access:** join the waitlist.
 
-<p></p>
+**[Explore Obscure →](https://obscurelabs.pages.dev)** · **[Our mission →](https://obscurelabs.pages.dev/#mission)**
 
-Behind the board is **Obscure** — sensitive messages hidden in plain text. Our encoding
-rewrites a sensitive message as ordinary conversation; the real message is encrypted on the
-sender's device (AES-256-GCM) before it leaves, so our server never sees the message itself.
+</td>
+</tr>
+<tr>
+<td width="96" align="center" valign="middle"><a href="https://uchess.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/uchess-official.png" width="80" alt="uChess app icon"></a></td>
+<td valign="top">
 
-<p></p>
+### [uChess](https://uchess.pages.dev): the royal game, for all
 
-**MagCT** won Notre Dame's **SprintHacks** (October 2026) and ships from the **Innovation Sprint Lab** toward Demo Day (December 2026).
+Free chess on the web and Android: play the computer at eight levels, challenge real
+opponents, solve puzzles and explore openings. No paywall or account needed to play.
 
-<p></p>
-
-- **Organization:** [github.com/MagCT](https://github.com/MagCT)  
-- **Code (private):** [MagCT/uchess](https://github.com/MagCT/uchess) — collaborator access  
-- **Live:** [uchess.pages.dev](https://uchess.pages.dev)
-
-<p></p>
-
-To find the explainer site, enter <code>1234</code> into any uChess chat.
-
-<p></p>
-
-**[Play uChess →](https://uchess.pages.dev)** &nbsp;·&nbsp; **[MagCT →](https://github.com/MagCT)** &nbsp;·&nbsp; **[Repo →](https://github.com/MagCT/uchess)**
+**[Play uChess →](https://uchess.pages.dev)** · **[MagCT →](https://github.com/MagCT)**
 
 </td>
 </tr>
