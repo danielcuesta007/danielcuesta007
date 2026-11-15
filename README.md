@@ -1,7 +1,7 @@
 <h1>Daniel Cuesta</h1>
 
 <p>
-  Senior at the University of Notre Dame (Go Irish), studying Finance and Strategic Management. Author of <b>Wednesdays Of Wisdom</b>, a weekly newsletter focused on timeless principles for daily action: 120+ letters on philosophy and faith. Co-founder of <b>Addisuna Coffee Co.</b>, a profitable Ethiopian specialty coffee company sponsoring children's education in Ethiopia. Spent summer 2026 growing the good in business with IBM Consulting.
+  Senior at the University of Notre Dame (Go Irish), studying Finance and Strategic Management. Author of <b>Wednesdays Of Wisdom</b>, a weekly newsletter focused on timeless principles for daily action: 125+ letters on philosophy and faith. Co-founder of <b>Addisuna Coffee Co.</b>, a profitable Ethiopian specialty coffee company sponsoring children's education in Ethiopia. Spent summer 2026 growing the good in business with IBM Consulting.
 </p>
 
 <p>
