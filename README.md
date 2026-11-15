@@ -24,7 +24,7 @@
   <td valign="middle" align="left"><a href="https://uchess.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/uchess-official.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://uchess.pages.dev"><b>Play uChess</b></a></td>
   <td valign="middle" align="left"><a href="https://cadence-dictation.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/cadence-app.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/danielcuesta007/cadence"><b>Cadence</b></a></td>
   <td valign="middle" align="left"><a href="https://sophia-writing.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/sophia-app.png" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://github.com/danielcuesta007/sophia"><b>Sophia</b></a></td>
-  <td valign="middle" align="left">&nbsp;</td>
+  <td valign="middle" align="left"><a href="https://obscurelabs.pages.dev"><img src="https://raw.githubusercontent.com/danielcuesta007/danielcuesta007/main/icons/obscure.svg" width="26" height="26" alt="" valign="middle"></a>&nbsp;<a href="https://obscurelabs.pages.dev"><b>Obscure</b></a></td>
   <td valign="middle" align="left">&nbsp;</td>
 </tr>
 <tr>

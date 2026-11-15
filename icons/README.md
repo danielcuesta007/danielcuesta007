@@ -10,6 +10,7 @@
 | `cadence-app.png` | Cadence app bundle |
 | `sophia-app.png` | Sophia app artwork |
 | `addisuna.svg` | Addisuna brand mark (repo) |
+| `obscure.svg` | Obscure public favicon (`brand/obscure/favicon.svg`, published at obscurelabs.pages.dev/favicon.svg) |
 | `magct-link.svg` | MagCT wordmark tile |
 | `skeptic` | `danielcuesta007/skeptic` `docs/brand/skeptic-icon.svg` |
 
