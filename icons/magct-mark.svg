@@ -1,4 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="MagCT">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">MagCT — M cat head, C and T eyes</title>
   <rect width="256" height="256" rx="48" fill="#0a0a0a"/>
-  <text x="128" y="148" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', serif" font-size="52" font-weight="600" fill="#ffffff">MagCT</text>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 194V72L95 152L128 58L161 152L208 72V194" stroke-width="17"/>
+  </g>
+  <path fill="#fff" d="M56 74L46 52L66 66ZM200 74L210 52L190 66Z"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round">
+    <path d="M72 172a20 26 0 1 1 0-44" stroke-width="8"/>
+    <path d="M150 146h44M172 146v30" stroke-width="8"/>
+  </g>
+  <path fill="#fff" d="M128 182l-7 11h14z"/>
+  <g stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.45">
+    <path d="M108 194L62 190M148 194L194 190"/>
+  </g>
 </svg>
